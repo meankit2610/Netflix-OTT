@@ -48,3 +48,9 @@ router.post('/login', async (req, res) => {
 })
 
 module.exports = router;
+
+
+
+
+//test token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0NWNhNDdhNzk5NmExMzViN2ZiMTQ0ZCIsImlzQWRtaW4iOmZhbHNlLCJpYXQiOjE2ODM3OTMzMzEsImV4cCI6MTY4NDIyNTMzMX0.WLeiafJ5QcAVKweWIgLg0LMOgQdyrv-0b9Xu9tydGQE
+// eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0NDk3NWQwMjY2M2E3NjUwZmQxZGRiZSIsImlzQWRtaW4iOnRydWUsImlhdCI6MTY4MzgyODcwNiwiZXhwIjoxNjg0MjYwNzA2fQ.Nac9og51Gzm4FVXVD2_l0gRvS5SYsk-mnJWrY_IiBNg
